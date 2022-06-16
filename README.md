@@ -1,6 +1,6 @@
 # StudyC_Basic_2022
 C 학습 리포지토리
-![CLogo](https://github.com/ParkYongJun03/StudyC_Basic_2022/blob/main/images/c.png?raw=true)
+![CLogo](https://raw.githubusercontent.com/ParkYongJun03/StudyC_Basic_2022/main/images/c.png)
 # Day1 
 - visual studio Commuity 2022 설치
 - C 기본개념
