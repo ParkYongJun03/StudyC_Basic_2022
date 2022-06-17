@@ -51,6 +51,10 @@ https://visualstudio.microsoft.com/ko/vs/
   - 일단 솔루 션 내에 다른 프로젝트 생성 (DataOutputApp)
   - (솔루션) 오른쪽 클릭 -> 속성
   - ![image](https://user-images.githubusercontent.com/83456300/173977882-8ed2b951-8942-4fd5-aabf-25e17a74b762.png)
+ ### 한 프로젝트 안에 2개의 main함수가 존재 할 수 없음
+   - ![image](https://user-images.githubusercontent.com/83456300/174199993-0a1c3f81-6e49-4df9-a03c-bb4f5fd4bd18.png)
+    - main함수를 포함하는 또 다른 파일을 (프로젝트에서 제외)시키면 디버깅이 된다.
+    - 프로젝트에서 제외된 파일을 다시 보려면(포함할려면) (솔루션 탐색기 -> 상단 바(모든 파일 표시) 클릭 -> {해당 파일}우클릭 -> 프로젝트에 포함)
  ### 명령어 단축기
   - Ctrl + K + D : 선택 영역 줄정렬
   - Ctrl 두 번 누르기 : intellisense 인라인 팁 보기
