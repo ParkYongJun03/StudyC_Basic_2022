@@ -57,9 +57,13 @@ https://visualstudio.microsoft.com/ko/vs/
     - 프로젝트에서 제외된 파일을 다시 보려면(포함할려면) (솔루션 탐색기 -> 상단 바(모든 파일 표시) 클릭 -> {해당 파일}우클릭 -> 프로젝트에 포함)
  ### 전처리기 정의 (scanf를 사용할 수 있음)
     - 코드에 다음을 포함시킨다.
-    `#define _CRT_SECURE_NO_WARNINGS`
+`
+#define _CRT_SECURE_NO_WARNINGS
+`
     - 또는 솔루션 탐색기에서 (프로젝트 오른쪽 클릭 -> 속성 -> 구성/속성 -> C/C++ -> 전처리기 -> 전처리기 정의-> 편집  {다음을 추가})
-    `_CRT_SECURE_NO_WARNINGS`
+`
+_CRT_SECURE_NO_WARNINGS
+`
     - ![image](https://user-images.githubusercontent.com/83456300/174200351-ca719eeb-491f-4029-92d1-a3dd85785d2c.png)
 
  ### 명령어 단축기
