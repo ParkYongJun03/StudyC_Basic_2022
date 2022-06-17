@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="str_main.c">
+    <ClCompile Include="arr_ptr_main2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
