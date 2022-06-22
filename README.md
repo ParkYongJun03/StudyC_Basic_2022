@@ -1,5 +1,6 @@
 # StudyC_Basic_2022
 C 학습 리포지토리
+
 <img src="https://raw.githubusercontent.com/ParkYongJun03/StudyC_Basic_2022/main/images/c.png" width ="200">
 
 # Day1 
@@ -27,14 +28,25 @@ C 학습 리포지토리
 - C 기본문법
     - 메모리 동적할당 나머지
     - 파일 입출력
-- 실습예제
-    - 이미지 편집기
-    - 소코반
-    - 주소록 프로그램(MySQL)
-# Day 4
-    -
-# Day 5
-    -
+- MySQL DB 학습
+
+# Day 4 ~ 5
+- 실습 예제
+    - 도서관 관리 프로그램(MySQL)
+        - MSVC(C)
+        - MySQL Connector C 6.1
+        - MySQL Server
+#### 실행화면
+![displaydata](https://github.com/ParkYongJun03/StudyC_Basic_2022/blob/main/images/display_data.png?raw=true)
+기본조회 화면
+<br/>
+![edit_data](https://github.com/ParkYongJun03/StudyC_Basic_2022/blob/main/images/edit_data.png?raw=true)
+책 정보 수정 화면
+<br/>
+![first_menu](https://github.com/ParkYongJun03/StudyC_Basic_2022/blob/main/images/first_menu.png?raw=true)
+기본조회 화면
+<br/>
+    
 Study C 기초 2022 06 16
 
 ### Visual Studio Community 2022 설치
